@@ -11,10 +11,11 @@ Bachelor of Engineering in Information Technology (GTU - July 2016)
 
 ## Professional Experience
 **Medville | IT Analyst March 2024 – Present**
-• Cleaned and standardized large datasets of healthcare records and medical supply inventory data. Analyzed patient readmission rates to identify high-risk populations and develop targeted interventions.
-• Created compelling data visualizations to communicate complex healthcare trends. Effectively communicated data findings to both technical and non-technical audiences, fostering data-driven decision making.
-• Leveraged web development skills to build a website for a physical therapy and rehabilitation center using WordPress. Collaborated with the director to gather project requirements, understand functionalities, and define deliverables.
-• Analyzed requirements and created wireframes to define website structure and user flow. Ensured responsive design for optimal viewing across various devices.
+- Cleaned and standardized large datasets of healthcare records and medical supply inventory data. 
+- Created compelling data visualizations to communicate complex healthcare trends. Effectively communicated data findings to both technical and non-technical audiences, fostering data-driven decision making.
+- Leveraged web development skills to build a website for a physical therapy and rehabilitation center using WordPress.
+- Collaborated with the director to gather project requirements, understand functionalities, and define deliverables.
+- Analyzed requirements and created wireframes to define website structure and user flow. Ensured responsive design for optimal viewing across various devices.
 
 **Software Engineer | H K Acharya & Company | Sep. 2016 – Dec. 2019**
 - Designed and developed VB.NET applications for data retrieval and storage.
